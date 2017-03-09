@@ -17,6 +17,12 @@ I am learning OpenLayers 3 and correcting many misunderstandings I find in the c
 Download code and test on local server.
 ### Software Versions
 
+```markdown
+- OpenLayers 3 Version: v4.0.1
+- ol3-layerswitcher working with OL3 v4.0.1
+- jQuery v3.1.1 | (c) jQuery Foundation
+```
+
 ## API Reference
 
 Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
@@ -31,10 +37,13 @@ I test my code on a local Apache server.
 
 ## License
 
+## Books 
 
 
 ## Credits
-For help starting this README https://gist.github.com/jxson/1784669
-OpenLayers 3 https://github.com/openlayers/openlayers
-Layerswitcher https://github.com/walkermatt/ol3-layerswitcher
-The kind contributers to https://stackoverflow.com/
+'''
+- For help starting this README https://gist.github.com/jxson/1784669
+- OpenLayers 3 https://github.com/openlayers/openlayers
+- Layerswitcher https://github.com/walkermatt/ol3-layerswitcher
+- The kind contributers to https://stackoverflow.com/
+'''
