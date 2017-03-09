@@ -41,9 +41,9 @@ I test my code on a local Apache server.
 
 
 ## Credits
-'''
+```markdown
 - For help starting this README https://gist.github.com/jxson/1784669
 - OpenLayers 3 https://github.com/openlayers/openlayers
 - Layerswitcher https://github.com/walkermatt/ol3-layerswitcher
 - The kind contributers to https://stackoverflow.com/
-'''
+```
