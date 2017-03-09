@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Github</title>
+<meta name="generator" content="Bluefish 2.2.7" >
+<meta name="author" content="Rose Dlhopolsky" >
+<meta name="date" content="2017-03-09T10:59:49+0100" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+<style type="text/css">
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<h2>Github</h2>
+<p>Files tested and functional on <a href="https://github.com/rmdobservations/learningOpenLayers3" target="_blank" title="Github Website">https://github.com/rmdobservations/learningOpenLayers3</a>
+
+</p>
+
+<h3>First time use of project</h3>
+<p>I am still confused about whether to manually create a project on the github website or to do all from the command line. If it is already created, I get the push/pull problem. The list below was for the beginning of a project. 
+<ol>
+	<li>git init</li>
+	<li>git config --global user.name "rmdobservations"</li>
+	<li> git config --global user.email "rose@rmdobservations.nl"</li>
+	<li>  git config --list</li>
+	<li>git add .</li>
+	<li>git commit -m "Initial Commit" -a</li>
+<li> git remote add origin https://github.com/rmdobservations/learningOpenLayers3</li>
+<li> git remote -v</li>
+<li>git push origin master</li>
+<li>git pull origin master</li>
+<li>git push origin master</li>
+
+</ol>
+<h3>Updating project</h3>
+<p></p>
+
+<table>
+<tr>
+<td>program name</td>
+<td>Credits</td>
+<td>Notes</td>
+</tr>
+
+<tr>
+<td><a href="/gituploads/examples/layerswitcher.html" target="_blank">layerswitcher</a></td>
+<td><a href="https://github.com/walkermatt/ol3-layerswitcher">credits and source</a></td>
+<td></td>
+</tr>
+</table>
+
+</body>
+</html>

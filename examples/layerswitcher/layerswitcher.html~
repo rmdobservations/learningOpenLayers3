@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>LayerSwitcher</title>
+
+<link rel="stylesheet" href="../../css/ol.css" type="text/css" />
+<link rel="stylesheet" href="../../css/ol3-layerswitcher.css" />
+<link rel="stylesheet" href="../css/style.css" />
+
+<script src="../../js/ol.js"></script>
+<script src="../../js/ol3-layerswitcher.js"></script>
+<script src="../../js/jquery.js"></script>
+
+<link rel="stylesheet" href="css/layerswitcher.css" />
+<script src="js/layerswitcher.js"></script>
+
+</head>
+<body>
+<h2>Example of Layers</h2>
+<p>There are two groups (icon is at right):
+<ul>
+<li>Overlays Checkbox</li>
+<li>Base Layer Radio Button</li>
+</ul>
+
+
+</p>
+<h3>Notes</h3>
+<p>Jquery is included only because I find it handy to have javascript outside the body of the html.</p>
+
+<h3>Credits</h3>
+Thanks to original code <a href="https://github.com/walkermatt/ol3-layerswitcher">Matt Walker</a>. I have rearranged
+some of the code to make it easier for me to understand and apply to new maps.
+
+<div id="map"></div>
+</body>
+</html>
