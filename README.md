@@ -6,7 +6,7 @@ Many of the examples for Openlayers 3 have out-dated functions (those that were 
 
 ## Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+It should be possible to download this code and run it on a local server. 
 
 ## Motivation
 
@@ -15,6 +15,7 @@ I am learning OpenLayers 3 and correcting many misunderstandings I find in the c
 ## Installation
 
 Download code and test on local server.
+
 ### Software Versions
 
 ```markdown
