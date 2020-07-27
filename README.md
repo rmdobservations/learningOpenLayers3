@@ -1,5 +1,5 @@
 # Learning OpenLayers 3
-TESTING after a long time....
+TESTING after a long time....Hi rose
 ## Synopsis
 
 Many of the examples for Openlayers 3 have out-dated functions (those that were tried but not accepted). This project consists of programs which I have working on my home server.
